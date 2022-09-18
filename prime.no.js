@@ -5,8 +5,8 @@ if(n%i!=0){
 count++;
 }
 }if(count==2){
-console.log("Yes");
+console.log(n,"Yes it is a prime");
 }
 else{
-console.log("no");
+console.log(n,"no it is not a prime");
 }
